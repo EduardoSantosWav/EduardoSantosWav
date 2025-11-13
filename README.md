@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Olá! Eu sou o/a **EduardoSantosWav**
 
-<!--
-**EduardoSantosWav/EduardoSantosWav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo(a) ao meu cantinho no GitHub! Sou um(a) **Desenvolvedor Full-Stack apaixonado em programação!**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 O que estou fazendo agora
+
+* 🔭 Eu estou atualmente cursando **Analise e Desenvolvimento de Sistemas** na faculdade **UDF**.
+* 
+---
+
+### 🛠️ Minhas Habilidades e Ferramentas
+
+| Categoria | Tecnologias Principais |
+| :--- | :--- |
+| **Linguagens** | `Python` / `Java` / `C` / `SQL` / `HTML` / `CSS` / `PHP` |
+| **Bancos de Dados** | `MySQL` / `PHPMyAdmin` |
+
+---
+
+### 💬 Vamos nos Conectar!
+
+* 🤔 Eu estou procurando ajuda com **Vagas de Estágio para experiencia!**.
+* 💬 Pergunte-me sobre **desenvolvimento front-end**.
+
+---
+
+### 💡 Mais sobre mim
+
+* ⚡ Fato divertido: **Também sou produtor musical**.
