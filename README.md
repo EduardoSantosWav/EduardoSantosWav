@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o/a **EduardoSantosWav**
+## 👋 Olá! Eu sou o **EduardoSantosWav**
 
 Bem-vindo(a) ao meu cantinho no GitHub! Sou um(a) **Desenvolvedor Full-Stack apaixonado em programação!**.
 
